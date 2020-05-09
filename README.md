@@ -1,15 +1,12 @@
-# 100 Days Of Algorithms
+# 100 Days Of LeetCode - Swft
 
-
-### This is my attempt at 100 days of Algorithms 
-Note: While doing this challenge, my goal is to learn another program langauge such as C and write algorithms using that new language instead. My goal is to switch the syntax every 20 days of algorithms. #challengeWithATwist
-
+### This is my attempt at 100 days of LeetCode
 ### Start Date: March 19th, 2020
 
 ### Log:
 - - - -  
 
-#### These are backlogged, I already submitted then but didn't record when I finished so I am adding them after the fact. 
+#### These are backlogged, I already submitted them but didn't record when I finished so I am adding them after the fact. 
 
 <!---->
 <details>
