@@ -85,3 +85,14 @@
 ![](promptScreenshots/107_binary_tree_level_order_traversal_II.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 51</b></summary>
+
+1. [75_sort_colors](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/75_sort_colors.swift)
+
+![](promptScreenshots/75_sort_colors.png)
+
+</details>
