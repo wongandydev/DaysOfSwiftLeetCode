@@ -107,3 +107,14 @@
 ![](promptScreenshots/101_symmetric_tree.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 52</b></summary>
+
+1. [77_combinations](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/77_combinations.swift)
+
+![](promptScreenshots/77_combinations.png)
+
+</details>
