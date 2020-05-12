@@ -96,3 +96,14 @@
 ![](promptScreenshots/75_sort_colors.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 52</b></summary>
+
+1. [101_symmetric_tree](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/101_symmetric_tree.swift)
+
+![](promptScreenshots/101_symmetric_tree.png)
+
+</details>
