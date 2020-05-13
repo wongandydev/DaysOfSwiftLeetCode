@@ -129,3 +129,14 @@
 ![](promptScreenshots/108_convert_sorted_array_to_binary_search_tree.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 53</b></summary>
+
+1. [78_subsets](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/78_subsets.swift)
+
+![](promptScreenshots/78_subsets.png)
+
+</details>
