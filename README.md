@@ -140,3 +140,14 @@
 ![](promptScreenshots/78_subsets.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 54</b></summary>
+
+1. [110_balanced_binary_tree](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/110_balanced_binary_tree.swift)
+
+![](promptScreenshots/110_balanced_binary_tree.png)
+
+</details>
