@@ -151,3 +151,14 @@
 ![](promptScreenshots/110_balanced_binary_tree.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 55</b></summary>
+
+1. [1104_distribute_candies_to_people](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/1104_distribute_candies_to_people.swift)
+
+![](promptScreenshots/1104_distribute_candies_to_people.png)
+
+</details>
