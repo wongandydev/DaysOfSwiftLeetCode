@@ -162,3 +162,14 @@
 ![](promptScreenshots/1104_distribute_candies_to_people.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 56</b></summary>
+
+1. [824_goat_latin](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/824_goat_latin.swift)
+
+![](promptScreenshots/824_goat_latin.png)
+
+</details>
