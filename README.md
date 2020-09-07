@@ -173,3 +173,14 @@
 ![](promptScreenshots/824_goat_latin.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 57</b></summary>
+
+1. [290_word_pattern](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/290_word_pattern.swift)
+
+![](promptScreenshots/290_word_pattern.png)
+
+</details>
