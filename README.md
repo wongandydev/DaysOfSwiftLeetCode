@@ -184,3 +184,14 @@
 ![](promptScreenshots/290_word_pattern.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 58</b></summary>
+
+1. [152_maximum_product_subarray](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/152_maximum_product_subarray.swift)
+
+![](promptScreenshots/152_maximum_product_subarray.png)
+
+</details>
