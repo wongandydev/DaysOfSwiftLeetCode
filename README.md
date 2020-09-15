@@ -206,3 +206,18 @@
 ![](promptScreenshots/216_combination_sum_III.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 60</b></summary>
+
+1. [58_length_of_last_word](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/58_length_of_last_word.swift)
+
+![](promptScreenshots/58_length_of_last_word.png)
+
+2. [62_unique_paths](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/62_unique_paths.swift)
+
+![](promptScreenshots/62_unique_paths.png)
+
+</details>
