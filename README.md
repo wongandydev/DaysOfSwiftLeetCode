@@ -221,3 +221,14 @@
 ![](promptScreenshots/62_unique_paths.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 61</b></summary>
+
+1. [121_best_time_to_buy_and_sell_stock](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/121_best_time_to_buy_and_sell_stock.swift)
+
+![](promptScreenshots/121_best_time_to_buy_and_sell_stock.png)
+
+</details>
