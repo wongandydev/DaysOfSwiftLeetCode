@@ -232,3 +232,14 @@
 ![](promptScreenshots/121_best_time_to_buy_and_sell_stock.png)
 
 </details>
+
+<!---->
+
+<details>
+<summary><b>Day 62</b></summary>
+
+1. [389_find_the_difference](https://github.com/wongandydev/DaysOfSwiftLeetCode/blob/master/Algorithms/389_find_the_difference.swift)
+
+![](promptScreenshots/389_find_the_difference.png)
+
+</details>
